@@ -8,5 +8,6 @@
 
 
 	echo "会冲突吗";
+	echo "this is english,i think it won't confilt";
 
 ?>
