@@ -11,5 +11,6 @@
 	echo "会冲突吗";
 
 	echo "又会冲突吗";
+echo "hjdfkdfk";
 ?>
 
