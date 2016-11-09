@@ -1,4 +1,4 @@
 <?php
 echo "this is my first file";
-echo "this is my phpstorm";
+echo "this is my phpsto";
 ?>
